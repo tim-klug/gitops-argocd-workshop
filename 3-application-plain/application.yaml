@@ -13,7 +13,7 @@ spec:
   source:
     repoURL: git@github.com:tim-klug/gitops-argocd-workshop.git
     targetRevision: main
-    path: /1-plain
+    path: 1-plain
     helm:
       valueFiles: {}
       values: 
